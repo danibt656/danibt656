@@ -6,4 +6,4 @@ Although **I focus on machine learning & data science** at a professional level,
 
 You can visit **<a href="https://danibt656.github.io" target="_blank">my website</a>** if you're interested in my contact info and more.
 
-Or you can directly jump to ***<a href="https://danibt656.github.io/docs/CV.pdf" target="_blank">my Resume</a>*** for business matters.
+Or you can directly jump to ***<a href="https://danibt656.github.io/assets/docs/CV.pdf" target="_blank">my Resume</a>*** for business matters.
